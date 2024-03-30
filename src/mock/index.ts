@@ -8,7 +8,7 @@ export const defaultUser: LocalGithubUser = {
     "company": "@tildeio ",
     "blog": "http://yehudakatz.com",
     "location": "Portland, OR",
-    "bio": 'Developer',
+    "bio": null,
     "twitter": "wycats",
     "repos": 286,
     "followers": 10188,
